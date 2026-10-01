@@ -1,12 +1,12 @@
 # HackerRank 3rd Semester Algorithm Portfolio
 ## Student Details
 Name: Rashmita Halder
-USN: YOUR_USN
+USN: R25EF214
 Semester: 3rd Semester
 Course: B.Tech Computer Science and Engineering
 University: REVA University
 ## Profile Links
-HackerRank: YOUR_HACKERRANK_PROFILE_URL
+HackerRank: https://www.hackerrank.com/profile/rashmitahalder61
 GitHub: https://github.com/RashmitaHalder61cpu
 
 ## Introduction
